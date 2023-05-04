@@ -1,2 +1,1 @@
-# adc-sdk
-一个本公司私有的负载均衡go-sdk
+通过golang语言编写的负载均衡的SDK包
